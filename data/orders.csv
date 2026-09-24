@@ -1,0 +1,12 @@
+order_id,customer_id,product,category,quantity,price,order_date
+1001,C001,Laptop,Electronics,1,55000,2026-09-01
+1002,C002,Headphones,Electronics,2,2500,2026-09-01
+1003,C003,Office Chair,Furniture,1,8500,2026-09-02
+1004,C001,Keyboard,Electronics,1,1500,2026-09-02
+1005,C004,Mouse,Electronics,3,800,2026-09-03
+1005,C004,Mouse,Electronics,3,800,2026-09-03
+1006,C005,Desk,Furniture,1,12000,2026-09-03
+1007,C002,Monitor,Electronics,1,15000,2026-09-04
+1008,C006,Notebook,Stationery,5,100,2026-09-04
+1009,C007,Pen,Stationery,10,20,2026-09-05
+1010,C003,Laptop,Electronics,1,55000,2026-09-05
